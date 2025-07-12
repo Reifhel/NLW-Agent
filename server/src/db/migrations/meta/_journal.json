@@ -15,6 +15,13 @@
       "when": 1752150480833,
       "tag": "0001_tiresome_makkari",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1752267070841,
+      "tag": "0002_careful_exodus",
+      "breakpoints": true
     }
   ]
 }

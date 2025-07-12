@@ -36,11 +36,11 @@ GET {{baseUrl}}/rooms/{{roomId}}/questions
 
 # Create room
 # @name createQuestion
-POST {{baseUrl}}/rooms/{{roomId}}/questions
+POST {{baseUrl}}/rooms/1fb31991-032d-4f69-ae99-c5a79168adc0/questions
 Content-Type: application/json
 
 {
-    "question": "Qual o sentido da vida?"
+    "question": "Onde os gatos vivem?"
 }
 
 ###
